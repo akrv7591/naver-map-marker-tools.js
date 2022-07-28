@@ -1,0 +1,25 @@
+{
+  "name": "naver-map-marker-tools",
+  "version": "1.0.0",
+  "description": "Naver maps marker tools",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akrv7591/naver-map-marker-tools.js.git"
+  },
+  "author": "navermaps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akrv7591/naver-map-marker-tools.js/issues"
+  },
+  "homepage": "https://github.com/akrv7591/naver-map-marker-tools.js#readme",
+  "publishConfig": {
+    "name": "@akrv7591/naver-map-marker-tools.js"
+  }
+}
